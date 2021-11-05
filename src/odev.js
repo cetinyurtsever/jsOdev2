@@ -77,7 +77,7 @@ for (let i = 2; i < 1000; i++) {
         }
     }
     if (prime == 0) {
-        console.log(i)
+        console.log(i + " Asal sayıdır")
 
     }
 }
